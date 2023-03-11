@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-0x00 shell_basics repo
+This is a repo for the alx tasks
